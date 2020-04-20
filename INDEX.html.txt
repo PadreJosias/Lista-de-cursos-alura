@@ -6,7 +6,7 @@
 </head>
 <body>
     <ul>
-        <li>Vagrant</li>
+        <li>Vagrant :Gerênciando maquinas virtuais</li>
         <li>Docker</li>
         <li>Ansible</li>
         <li>Integração Contínua: Maturídade e Produtívidade no Desenvolvimento de Software</li>
